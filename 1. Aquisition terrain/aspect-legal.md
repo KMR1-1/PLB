@@ -1,6 +1,6 @@
 L'aspect légal d'un terrain en France est crucial pour la création de structures, qu'elles soient des habitations, artisanales, agricoles, forestières ou pour des exploitations animales. Voici les principales considérations juridiques à connaître avant de commencer un projet :
 
--[x] : expliquer comment avoir ses documents ou tout simplement les souruuucer
+-[ ] : expliquer comment avoir ses documents ou tout simplement les sourcer
 
 
 ### 1. **Urbanisme et Réglementation**
