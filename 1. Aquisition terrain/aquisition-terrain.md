@@ -1,4 +1,4 @@
-### Choix de la Région
+# Choix de la Région
 
 1. **Adaptation au Projet**
    - **Climat** : régions plus chaudes pour cultures méditerranéennes, climats tempérés pour une diversité de cultures, montagneux pour élevage spécifique.
@@ -13,7 +13,7 @@
    - **Zones rurales** : règles d’urbanisme plus souples, possibilités d’obtention d’aides pour le développement rural.
    - **Aides et subventions régionales** : notamment les aides PAC pour les jeunes agriculteurs, subventions pour l’agroécologie ou les constructions écologiques.
 
-### Techniques pour Trouver un Terrain
+## Techniques pour Trouver un Terrain
 
 1. **Recherche en Ligne**
    - **Sites spécialisés** : LeBonCoin, Green-Acres, SAFER (Société d'Aménagement Foncier et d’Établissement Rural).
@@ -58,11 +58,10 @@
 - **Instituts techniques agricoles** : études sur les sols et les techniques de culture en fonction des régions (ARVALIS, INRAE).
 - **Associations locales en agroécologie** : pour du soutien dans le choix du terrain et des conseils (Terre de Liens, Les Colibris).
 - **Portails régionaux** : sites gouvernementaux ou régionaux fournissant des informations sur les subventions, aides pour jeunes agriculteurs, et projets agroécologiques (Ademe, Agence Bio).
-
-
 - Le site cadastre.gouv permet
   - rechercher une parcelle par adresse
   - visualiser le plan cadastral
 - contacter les mairies ou la direction des finances publiques permettent un extrait de matrice cadastral
   - infos sur le proprio et la valeur du bien, et la constructibilité
-- 
+
+

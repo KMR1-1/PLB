@@ -1,14 +1,14 @@
 L'aspect légal d'un terrain en France est crucial pour la création de structures, qu'elles soient des habitations, artisanales, agricoles, forestières ou pour des exploitations animales. Voici les principales considérations juridiques à connaître avant de commencer un projet :
 
--[ ] : expliquer comment avoir ses documents ou tout simplement les sourcer
+- [ ] : expliquer comment avoir ses documents ou tout simplement les sourcer
 
 
 ### 1. **Urbanisme et Réglementation**
 #### Plan Local d'Urbanisme (PLU) ou Carte Communale
 - Le **PLU** définit les règles d’urbanisme dans chaque commune. Il divise le territoire en plusieurs zones :
   - **Zones urbaines (U)** : autorisées pour la construction de logements ou d'infrastructures.
-  - **Zones à urbaniser (AU)** : destinées à être urbanisées, mais sous certaines conditions.
   - **Zones agricoles (A)** : principalement réservées aux activités agricoles, avec des restrictions sur les constructions non agricoles.
+  - **Zones à urbaniser (AU)** : destinées à être urbanisées, mais sous certaines conditions.
   - **Zones naturelles (N)** : destinées à la protection de l’environnement, avec des limitations importantes sur les constructions.
   
   Les règles varient d'une commune à l'autre, donc consulter le PLU de la commune est une étape essentielle.
