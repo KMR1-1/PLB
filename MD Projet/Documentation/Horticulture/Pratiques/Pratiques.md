@@ -1,0 +1,13 @@
+- bouturage
+- cereales
+- compostage
+- cultures sans sol
+- fertilisation
+- greffage
+- hydroponie
+- irrigation
+- paillage
+- scarlage et binage
+- taille
+- aeroponie
+- palissage

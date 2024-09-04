@@ -1,0 +1,7 @@
+- capteurs
+- suivi numeriques
+  - calendriers
+- gestion des ressources
+- irrigation intelligente
+- alimentation intelligente
+- 

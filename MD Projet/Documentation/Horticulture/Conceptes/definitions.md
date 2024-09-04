@@ -6,3 +6,10 @@
 - biodynamie
 - phytoremediation
 - alleolopathie
+- resillience et adaptivité
+- adaptation au changement climatique
+- gestion des risques
+- saisonnalité
+- diversité alimentaire
+- agroecologie
+- haies

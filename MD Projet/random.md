@@ -3,3 +3,34 @@
 - navigation
 - securité
   - intrusions
+- haies
+- murets
+- talus
+- haies mortes
+- lisieres de foret
+- bosquet
+- bocage
+- jacheres fleuries et meliferes
+- prairies permanentes
+- parcours
+- landes
+- estives
+- vergers de haute tige
+- mares
+- tourbieres
+- zones tampons
+- bandes enherbées
+- prairies humides
+- diminution des intrants chimiques et energetiques
+- bassin versant
+- combinaison IAE (infrastructures agro ecologiques)
+- eutrophisation
+- stockage de l'eau dans les sols
+- denitrification
+- corridors biologiques
+- diagnostic agri environnemental des exploitations agricoles
+  - Dialectes
+- cambre regionale d'agriculture des pays de la loire, boite a outils sur IAE
+- abres epars
+- prod pluviale possible apres le centre de la france
+- capteur de brouillard

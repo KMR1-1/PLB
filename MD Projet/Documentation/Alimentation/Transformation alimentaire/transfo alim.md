@@ -1,0 +1,4 @@
+- miel
+- fromage
+- sirop
+- huile

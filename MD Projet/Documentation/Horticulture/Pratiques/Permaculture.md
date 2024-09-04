@@ -26,3 +26,14 @@
 - rendement
 - biotechnologies et ingéneurie genetique
 - complementarité entre elvages
+- tenir un journal de bord
+- tenir un calendrier
+  - semis
+  - recoltes
+  - entretien des cultures
+  - ameliorations
+- reajuster les pratiques en fonction des resultats et observations
+- adapter les structures en fonction des besoins
+- assurance et securisation
+- gestion des dechets
+- 

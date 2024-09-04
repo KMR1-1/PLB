@@ -1,0 +1,6 @@
+- loisirs
+- culture, tradition
+  - musique
+  - sport
+  - lecture
+  - arts

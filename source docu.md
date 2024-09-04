@@ -2,6 +2,9 @@
 - https://www.agroecology-europe.org
 - Asso, 
 - contact pour exprimer son intérret dans l'asso : secretariat@agroecology-europe.org  
+- solagro
+
+https://open.u-bordeaux.fr
 
 https://www.inrae.fr
 
@@ -45,6 +48,8 @@ https://www.reddit.com/r/Permaculture/
 
 https://www.ma-permaculture.fr/la-permaculture-les-indispensables/les-associations-de-permaculture/
 
+https://revue-set.fr/issue/view/712
+
 https://www.permatheque.fr
 
 https://lepotagerpermacole.fr/la-revue-numerique/
@@ -57,6 +62,15 @@ https://www.fun-mooc.fr/fr/cours/agroecologie/
 
 https://centre-national-agroecologie.fr/notre-approche/
 
+https://fr.wikipedia.org/wiki/Catégorie:Association_ou_organisme_lié_à_l%27agronomie
 
 https://youtu.be/FUm7dme5LRE
+
+agence bio
+colibris
+arvalis
+cadastre.gouv
+terre de liens
+
+https://fr.wikipedia.org/wiki/Liste_d%27engrais
 

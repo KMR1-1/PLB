@@ -1,0 +1,6 @@
+- actualités
+- co création et partage de conaissances
+- rencontres
+- developpement social solidaire
+- autonomie sociale et solidaire
+  - vie caummunautaire

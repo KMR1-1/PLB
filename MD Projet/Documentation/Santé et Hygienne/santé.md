@@ -15,4 +15,5 @@
 - premiers secours
 - urgence
   - catastrophe naturelle
-  - 
+- vieillisement
+- handicap

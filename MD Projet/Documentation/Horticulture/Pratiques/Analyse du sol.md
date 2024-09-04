@@ -12,3 +12,4 @@
   - percolation de l'eau
   - developpement des racines
   - preservation microorganismes
+  - aeration du sol
