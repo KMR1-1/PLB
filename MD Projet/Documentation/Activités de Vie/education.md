@@ -1,0 +1,19 @@
+## Education
+- diciplines
+  - ressources educatives
+  - maths
+  - francais
+  - autres langues
+  - histoire
+  - geo
+  - politique
+  - 
+- loisirs
+- culture, tradition
+  - musique
+  - sport
+  - lecture
+- actualités
+- co création et partage de conaissances
+- rencontres
+- developpement social solidaire

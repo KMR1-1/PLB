@@ -1,0 +1,18 @@
+## Animaux
+- domestiques
+- santé animaux
+- elevages
+  - complementarité entre elevages
+  - acclimatisation
+  - nourriture
+  - incubation, nurserie
+  - ressources
+  - travail
+  - reproduction
+  - cadavre
+  - paturage
+  - fourrage
+- insectes
+  - nuisibles
+  - composteurs
+- animaux exotiques

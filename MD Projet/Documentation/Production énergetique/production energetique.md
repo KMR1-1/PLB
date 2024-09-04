@@ -1,0 +1,17 @@
+## energies
+- chauffage solaire passif
+- pompes a chaleur
+- geothermie
+- chauffage infra rouge
+- isolation et conception thermique
+- chauffage a accumulation
+  - rocket stove
+  - briques
+  - circulation de l'air
+- biomasse
+- eolien
+- hydrolique
+- pyrolyse
+- fermentation
+- biogaz
+- alcool

@@ -1,0 +1,18 @@
+## Santé
+- maladies
+  - lyme
+  - gale
+- antibiotique
+- hygienne
+  - menstruations
+- traitements
+- acces au soins
+- nutrition
+- produits de soin
+- activité physique
+- obseques
+- Accouchement
+- premiers secours
+- urgence
+  - catastrophe naturelle
+  - 

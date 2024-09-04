@@ -1,0 +1,8 @@
+- photosynthese
+- germination
+- croissance des plantes
+- rotation des cultures
+- permaculture
+- biodynamie
+- phytoremediation
+- alleolopathie

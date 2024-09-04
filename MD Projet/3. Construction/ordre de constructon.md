@@ -1,0 +1,26 @@
+- réseaux
+  - eau
+  - electricité
+  - assainissement
+  - epuration
+  - l'eau est essencielle pour les autres etapes
+  - gestion des dechets
+- habitat
+  - se loger sur place
+  - confort premier
+  - etablie une yourte ou une tente car la construction est longue
+- ateliers
+  - faire un atelier polyvalent d'abord puis faire des ateliers plus spécialisés au fur et a mesure que les besoins arrivent
+  - artisanat
+  - création de materiaux
+  - raffinerie
+- Plantations
+  - commencer a établir les zones de cultures
+  - profiter des saisons
+  - stabiliser le sol
+  - cultures avec peu d'entretien et resistantes pour commencer puis progrssivement ameliorer le terrain
+- Elevages
+  - abris
+  - haies
+  - implantation
+  - commencer par des especes facile a gerer et qui demandent pas trop de temps, qui demande pas de grosses infrastructures
