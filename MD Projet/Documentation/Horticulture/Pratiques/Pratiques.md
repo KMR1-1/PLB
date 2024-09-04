@@ -11,3 +11,12 @@
 - taille
 - aeroponie
 - palissage
+- sechage
+  - https://fr.wikipedia.org/wiki/Catégorie:Séchage
+- stockage
+- elevateur a grain
+
+
+
+
+https://fr.wikipedia.org/wiki/Catégorie:Technique_culturale
