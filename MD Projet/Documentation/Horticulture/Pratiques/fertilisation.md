@@ -93,3 +93,6 @@
 - **Coût des fertilisants** : Comparaison des coûts entre fertilisants organiques, minéraux et innovants.
 - **Subventions et aides** : Programmes gouvernementaux pour soutenir l’utilisation de fertilisants écologiques.
 - **Rentabilité** : Analyse coût-bénéfice de différentes pratiques de fertilisation, y compris l'utilisation de technologies de précision.
+
+
+https://fr.wikipedia.org/wiki/Liste_d%27engrais
