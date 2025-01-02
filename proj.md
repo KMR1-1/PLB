@@ -220,3 +220,113 @@ SharpMap – Bibliothèque pour la cartographie en C#.
 
 Si tu veux un guide détaillé sur une partie spécifique, je peux te fournir des exemples concrets avec du code ou des tutoriels QGIS.
 
+Ces plateformes sont des sources essentielles pour accéder à des données géospatiales (principalement des Modèles Numériques d'Élévation - DEM, des images satellites et des relevés LIDAR). Elles sont largement utilisées en cartographie, géomatique, modélisation 3D, et pour des projets d'analyse environnementale ou d'infrastructure. Voici une explication détaillée de chaque plateforme :
+
+
+---
+
+1. USGS Earth Explorer
+
+URL : https://earthexplorer.usgs.gov/
+
+
+SRTM (Shuttle Radar Topography Mission) – Modèles d’élévation globaux (30m et 90m).
+
+Landsat – Imagerie satellitaire de la Terre (séries historiques depuis 1972).
+
+ASTER GDEM – Modèles d’élévation avec une résolution de 30m.
+
+NAIP (National Agriculture Imagery Program) – Photos aériennes haute résolution (États-Unis).
+
+
+Utilisation :
+
+Cartographie topographique.
+
+Analyse hydrologique (bassins versants, cours d’eau).
+
+Suivi des changements climatiques (recul des glaciers, déforestation).
+
+Aménagement du territoire (planification d’infrastructures).
+
+
+---
+
+2. Copernicus DEM
+
+URL : https://spacedata.copernicus.eu/
+
+Description :
+Le Copernicus DEM est un programme de l’Agence Spatiale Européenne (ESA), qui fournit des modèles d'élévation haute résolution basés sur des données radar. Ce programme s'inscrit dans l’initiative Copernicus de l'Union Européenne pour la surveillance environnementale.
+
+Données disponibles :
+
+Copernicus Global DEM (GLO-30 et GLO-90) – Résolution de 30m et 90m.
+
+Sentinel-1 & Sentinel-2 – Imagerie radar et optique (gratuite et mise à jour régulièrement).
+
+DEM haute résolution pour certaines régions d'Europe et du monde.
+
+
+Utilisation :
+
+Gestion environnementale (prévention des inondations, érosion côtière).
+
+Aménagement et urbanisme.
+
+Analyse des risques naturels (glissements de terrain, séismes).
+
+Modélisation climatique (zones d’ombre solaire, drainage).
+
+
+3. OpenTopography
+
+Site : https://opentopography.org/
+
+But :
+
+Fournir des données topographiques haute résolution (LIDAR, DEM) pour des zones spécifiques.
+
+Accès libre et direct aux jeux de données topographiques, souvent avec une précision centimétrique.
+
+
+Utilisation principale :
+
+Télécharger des données LIDAR brutes et traitées.
+
+Générer des modèles de terrain ultra-détaillés pour des projets de recherche, d’ingénierie ou d’analyse environnementale.
+
+Études géomorphologiques, géologiques et gestion des risques naturels (glissements de terrain, séismes).
+
+
+Formats disponibles :
+
+LAS/LAZ (LIDAR), GeoTIFF (DEM), ASCII Grid.
+
+
+Exemple de données disponibles :
+
+LIDAR de haute résolution sur des zones précises (souvent aux États-Unis et ailleurs).
+
+Modèles d’élévation générés à partir de nuages de points.
+
+Projet d’étude hydrologique :
+
+Télécharge un DEM 30m depuis USGS Earth Explorer (SRTM).
+
+Analyse les bassins versants et l’érosion avec QGIS.
+
+
+Modélisation 3D pour un projet d’infrastructure :
+
+Obtiens un DEM haute résolution depuis Copernicus DEM (GLO-30).
+
+Intègre le DEM dans Unity pour une visualisation 3D.
+
+
+Analyse de glissements de terrain après un séisme :
+
+Télécharge des données LIDAR brutes depuis OpenTopography.
+
+Crée des cartes détaillées de déformations.
+
