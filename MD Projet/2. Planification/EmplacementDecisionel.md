@@ -22,4 +22,11 @@ memes si ces zones peuvent etre les probables, elles sont retirés de la simulat
 si il n'y a pas les criteres requis comme des fleurs sur le terrain
 les fleurs doivent etre placés avant, il faut donc determiner l'emplacement des fleurs en premier
 l'emplacement des fleurs depends de l'emplacement des ruches et l'emplacement de la ruche depends de l'emplacement des fleurs
+
 #### algorithme glouton
+determiner une position de fleurs, puis de ruche, ensuite faire des cycles qui optimisent le positionnement jusqua la stabilité
+#### equation différentielle couplée
+interaction dynamique entre ruche et fleure
+systeme differenctiel qui converge vers une solution optimale
+#### optimisation globale
+algorithme genetique pour explorer des configurations et trouver une solution optimale
